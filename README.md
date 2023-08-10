@@ -1,4 +1,4 @@
-- 📍 Based in Besançon, France
+- 📍 Based in France
 - 📜 Currently learning everything
 - ⌨️ Open to collaboration
 <!---
